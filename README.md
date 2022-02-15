@@ -1,0 +1,2 @@
+# repo-latihan
+hanya latihan
